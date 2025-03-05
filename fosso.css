@@ -1,0 +1,196 @@
+body {  
+	text-decoration: none; 
+	color:           #000;
+	font-family:     Verdana,Arial,Helvetica,sans-serif;
+	font-size:       12pt; 
+}
+
+h1, h2, h3 {
+  font:    bold 1em/1.5em "Trebuchet MS", Tahoma, Arial, Sans-serif;
+  color:   #999;
+  padding: 5px 5px 5px 5px;
+  margin:  0;
+}
+
+h1 {
+  font-size:      300%;
+  font-weight:    normal;
+  letter-spacing: -2px;
+}
+
+h2 {
+  font-size: 200%;
+  color:     #663333;
+}
+
+h3 {
+  font-size:  170%;
+  font-weight: normal;
+}
+
+img {
+	border: 0px;
+}
+
+#menu, #menu ul { 
+	list-style:   none; 
+	width:        750px ;
+	margin-left:  auto ;
+	margin-right: auto ;
+}
+
+.menuitem { 
+	width:      120px; 
+	float:      left; 
+	border-left:     2px darkred solid; 
+	border-bottom:     2px darkred solid; 
+	color:      #000; 
+	text-align: left; 
+	margin:     0px 1px 0px 0px;
+}
+
+.menuitem a { 
+	display:  block; 
+	padding:  7px; 
+	color:    #000; 
+	text-decoration: none;
+}
+
+.menuitem a:hover { 
+	color:      darkred; 
+	background: #fffff0;
+}
+
+#settori ul { 
+	position:     absolute;
+	margin:       1px -2px;
+	display:      none; 
+	background:   #fffff0;
+	border-style: solid; 
+	border-width: 2px;
+	border-color: darkred;
+	padding:      4px 10px;
+	text-align:   left; 
+	width:        300px; 
+	z-index:      99; 
+}
+
+#settori ul li a { 
+	height:  17px; 
+	text-decoration: none;
+}
+
+#settori ul li a:hover { 
+	color:      darkred;
+	background: #eee;
+}
+
+#storie ul { 
+	position:     absolute;
+	margin:       1px -2px;
+	display:      none; 
+	background:   #fffff0;
+	border-style: solid; 
+	border-width: 2px;
+	border-color: darkred;
+	padding:      4px 10px;
+	text-align:   left; 
+	width:        200px; 
+	z-index:      99; 
+}
+
+#storie ul li a { 
+	height:  17px; 
+	text-decoration: none;
+}
+
+#storie ul li a:hover { 
+	color: darkred;
+	background: #eee;
+}
+
+#avviso {
+	clear: both;
+  display: block;
+	float: right;
+	width: 650px;
+	font-size: 13px;
+	text-align: center;
+	padding: 5px;
+	border: 1px dotted darkred;
+	margin: 5px;
+}
+
+#news {
+	clear: both;
+  display: block;
+	float: right;
+	width: 650px;
+	font-size: 12px;
+}
+
+#news li {
+	list-style: url("/img/pointer.gif"); 
+}
+
+#news_page {
+	width:   800px;
+	clear:   both;
+  display: block;
+	float:   left;
+	margin:  40px 20px 2px 100px;
+	font-size: 14px;
+}
+
+#news_page li {
+	list-style: url("/img/pointer.gif"); 
+}
+.links {
+	list-style: url("/img/pointer.gif"); 
+	font-size: 90%;
+}
+
+.links a {
+	text-decoration: none;
+	color: darkred;
+}
+
+.links a:hover {
+	text-decoration: underline;
+	color: darkred;
+}
+
+.domanda {
+	color:   darkred;
+	width:   80%;
+	padding: 10px;
+	margin:  5px 5px;
+	border-left: 2px solid darkred;
+}
+
+.risposta {
+	width: 80%;
+	margin: 5px 25px;
+}
+
+.via {
+  font-size: 120%;
+	color: darkred;
+}
+
+.autore {
+  text-align: right;
+	font-size: 120%;
+	margin: 20px 50px;
+}
+
+.marcato {
+	font-size: 150%; 
+	color:     #b2875d;
+}
+
+p.marcato {
+	font-size: 110%;
+	color:     #b2875d;
+}
+

@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="imagetoolbar" content="false">
+  <meta name="keywords"    content="Fosso Raibano, falesia, Emilia Romagna, Bologna, arrampicata, Badolo, arrampicata sportiva, climbing, Guida di fossoraibano, immagini, galleria, foto"/>
+  <meta name="description" content="Arrampicare a Fosso Raibano - Guida di fossoraibano: Galleria di immagini."/>
+  <meta name="robots"      content="all" />
+  <title>Fosso Raibano. Galleria di Immagini</title>
+
+  <link rel="stylesheet"    href="galleria.css" type="text/css" media="screen">
+  <link rel="shortcut icon" href="/fosso.ico"   type="text/css"/>
+  <link rel="stylesheet"    href="/fosso.css"   type="text/css"/> 
+
+  <script type="text/javascript">
+    window.onload = function() {
+  		document.getElementById("settori").onmouseover = function() { this.getElementsByTagName('ul').item(0).style.display = 'block'; } 
+	    document.getElementById("settori").onmouseout  = function() { this.getElementsByTagName('ul').item(0).style.display = 'none'; } 
+			document.getElementById("storie").onmouseover = function() { this.getElementsByTagName('ul').item(0).style.display = 'block'; } 
+  		document.getElementById("storie").onmouseout  = function() { this.getElementsByTagName('ul').item(0).style.display = 'none'; } 
+
+	  }
+  </script>
+
+	<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+	<script type="text/javascript" src="jquery.galleria.js"></script>
+	<script type="text/javascript">
+	
+	$(document).ready(function(){
+		
+		$('.gallery_demo_unstyled').addClass('gallery_demo'); // adds new class name to maintain degradability
+		
+		$('ul.gallery_demo').galleria({
+			history   : true,          // activates the history object for bookmarking, back-button etc.
+			clickNext : true,          // helper for making the image clickable
+			insert    : '#main_image', // the containing selector for our main image
+			onImage   : function(image,caption,thumb) { // let's add some image effects for demonstration purposes
+				
+				// fade in the image & caption
+				image.css('display','none').fadeIn(1000);
+				caption.css('display','none').fadeIn(1000);
+				
+				// fetch the thumbnail container
+				var _li = thumb.parents('li');
+				
+				// fade out inactive thumbnail
+				_li.siblings().children('img.selected').fadeTo(500,0.3);
+				
+				// fade in active thumbnail
+				thumb.fadeTo('fast',1).addClass('selected');
+				
+				// add a title for the clickable image
+				image.attr('title','Prossima Immagine >>');
+			},
+			onThumb : function(thumb) { // thumbnail effects goes here
+				
+				// fetch the thumbnail container
+				var _li = thumb.parents('li');
+				
+				// if thumbnail is active, fade all the way.
+				var _fadeTo = _li.is('.active') ? '1' : '0.3';
+				
+				// fade in the thumbnail when finnished loading
+				thumb.css({display:'none',opacity:_fadeTo}).fadeIn(1500);
+				
+				// hover effects
+				thumb.hover(
+					function() { thumb.fadeTo('fast',1); },
+					function() { _li.not('.active').children('img').fadeTo('fast',0.3); } // don't fade out if the parent is active
+				)
+			}
+		});
+	});
+	
+	</script>
+	<style media="screen,projection" type="text/css">
+	* {margin:0;padding:0}
+	body { text-align:center;background:#fff;color:#000}
+	h1,h2{ font:bold 60% 'helvetica neue',sans-serif;letter-spacing:3px;text-transform:uppercase;}
+	.footer{ font:bold 70% 'helvetica neue',sans-serif;letter-spacing:3px;}
+	a {color:#348;text-decoration:none;outline:none;}
+	a:hover {color:#67a;}
+	.caption {font-style:italic;color:#887;}
+	.demo {position:relative;margin-top:2em;}
+	.gallery_demo {width:702px;margin:0 auto;}
+	.gallery_demo li {width:68px;height:50px;border:3px double #111;margin: 0 2px;background:#000;}
+	.gallery_demo li div {left:240px}
+	.gallery_demo li div .caption{font:italic 0.7em/1.4 georgia,serif;}
+	
+	#main_image    { margin:0 auto 60px auto; height:600px; width:800px; background: #fff;}
+	#main_image img{ margin-bottom:10px;}
+	
+	.nav{padding-top:15px;clear:both;font:80% 'helvetica neue',sans-serif;letter-spacing:3px;text-transform:uppercase;}
+	
+	.info{text-align:left;width:700px;margin:30px auto;border-top:1px dotted #221;padding-top:30px;}
+	.info p{margin-top:1.6em;}
+  </style>
+	
+</head>
+<body>
+
+<div style="width: 100%; height: 50px; background: #fff; margin: 10px; padding: 10px;">
+<ul id="menu">
+		<li class="menuitem">
+		  <a href="/index.html">Home</a>
+		</li> 
+		<li class="menuitem" id="settori">
+
+		  <a href="#">Settori</a>
+		  <ul>
+        <li><a href="/nolimits.html"> <img src="/img/pointer.gif" alt="point" /> no limits</a></li><li><a href="/belvedere.html">il belvedere</a></li><li><a href="/jurassic.html">jurassic park</a></li><li><a href="/meraviglie.html">placca delle meraviglie</a></li><li><a href="/inutile.html">tempio dell'inutile</a></li><li><a href="/viandante.html">sogno di un viandante</a></li><li><a href="/sblisgo.html">placca dello sblisgo</a></li><li><a href="/pulpito.html">il pulpito</a></li><li><a href="/canyon.html">gran canyon</a></li><li><a href="/spaccato.html">spaccato d'onda</a></li><li><a href="/baby.html">baby school</a></li><li><a href="/george.html">George's dream</a></li><li><a href="/nochances.html">no chances</a></li><li><a href="/fosso.html">fosso vecchio</a></li>
+
+			</ul>
+		</li>
+		<li class="menuitem">
+		  <a href="/foto">Foto</a> 
+		</li>
+		<li class="menuitem" id="storie">
+		  <a href="#" >Storie</a> 
+		  <ul>
+			  <li><a href="/storie/spiro.html">introduzione</a></li>
+
+			  <li><a href="/storie/benni.html">l'eremita</a></li>
+			  <li><a href="/storie/vanni.html">il premier</a></li>
+			  <li><a href="#">il certosino</a></li>
+			  <li><a href="#">l'alchimista</a></li>
+			</ul>
+		</li>
+		<li class="menuitem">
+
+		  <a href="/links.html">Links</a> 
+		</li>
+		<li class="menuitem">
+		  <a href="/fosso.pdf">Pdf</a>
+		</li>
+	</ul>
+
+</div>
+
+<h1>Immagini da Fosso Raibano</h1>
+<div class="demo">
+<div id="main_image"></div>
+<ul class="gallery_demo_unstyled">
+    <li class="active"><img src="img/benni01.jpg" alt="Benni crea" 
+                            title="Benni scolpisce e crea"></li>
+    <li>               <img src="img/spiro01.jpg" alt="Spiro pappaglli verdi" 
+                            title="I pappagalli verdi di Spiro"></li>
+    <li>               <img src="img/aquile.jpg" alt="aquile randagie" 
+                            title="Sponsorizzazione su aquile randagie :-)"></li>
+    <li>               <img src="img/roberta01.jpg" alt="Buon Compleanno Roberta" 
+                            title="Buon Compleanno... Roberta"></li>
+    <li>               <img src="img/sassolino.jpg" alt="Solo sul Sassolino" 
+                            title="Solo sul sassolino che si romper&agrave;"></li>
+    <li>               <img src="img/targhetta01.jpg" alt="targetta di fosso" 
+                            title="Passione"></li>
+    <li>               <img src="img/diedro.jpg" alt="diedro" 
+                            title="Diedro"></li>
+</ul>
+<p class="nav">
+  <a href="#" onclick="$.galleria.prev(); return false;">&laquo; precedente</a> | <a href="#" onclick="$.galleria.next(); return false;">successiva &raquo;</a>
+</p>
+</div>
+
+<div class="info">
+<h2>Note</h2>
+<p class="footer">Avete qualche bella foto da aggiugere? Mandatela all'indirizzo <br/>
+fossoraibano chiocciolina gmail.com</p>
+
+<p class="footer">Pagina creata con <a href="http://monc.se/galleria">Galleria</a> 
+
+</body>
+</html>
