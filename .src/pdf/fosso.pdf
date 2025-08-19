@@ -1,0 +1,2 @@
+add_image_from_file("./pdf/fosso_map.jpg", 70, 35, 470)
+text settore.nome, :font_size => 20, :left => 100

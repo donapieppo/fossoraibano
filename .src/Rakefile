@@ -1,0 +1,32 @@
+require "./fosso"
+
+all_files = []
+
+["index", "news", "links"].each do |p|
+  file "../html/#{p}.html" => ["html/#{p}.html"] do
+    puts "ricreo #{p}"
+    `./crea.rb #{p}`
+  end
+  all_files << "../html/#{p}.html"
+end
+
+puts "---- SETTORI ----"
+Fosso.settori.each do |settore|
+  file "../html/#{settore}.html" => ["xml/#{settore}.xml", "html/#{settore}.html"] do
+    puts "ricreo #{settore}"
+    `./crea.rb #{settore}`
+  end
+  all_files << "../html/#{settore}.html"
+end
+
+puts "---- STORIE ----"
+["spiro", "benni", "vanni", "genova", "pietro"].each do |p|
+  file "../html/storie/#{p}.html" => ["html/storie/#{p}.html"] do
+    puts "ricreo #{p}"
+    `./crea_storie.rb #{p}`
+  end
+  all_files << "../html/storie/#{p}.html"
+end
+
+task default: all_files do
+end

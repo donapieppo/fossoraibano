@@ -1,0 +1,298 @@
+<xml>
+  <settore nome="Il belvedere">
+    <foto>le artistiche targhe di legno di Benni-De Andr&egrave;</foto>
+    <bg_color>#e3dde3</bg_color>
+
+    <via num="1">
+      <nome>P.C.I. (palestrato cagasotto incompetente)</nome>
+      <grado>?</grado>
+      <metri>?</metri>
+      <rinvii>?</rinvii>
+      <bellezza></bellezza>
+      <chiodatore>Stefano "Doc" Zanna</chiodatore>
+      <note>-</note>
+    </via>
+
+    <via num="2">
+      <nome>Fratelli di sabbia</nome>
+      <grado>6c+</grado>
+      <metri>17</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Cristiano Modestini / Sergio Borelli / Adir / Stefano Zanna</chiodatore>
+      <note>Bella e molto varia. A tratti atletica ma disomogenea nel complesso. Roccia cos&igrave; - cos&igrave;</note>
+      <storia>marzo 2007</storia>
+    </via>
+
+    <via num="3">
+      <nome>Jordi</nome>
+      <grado>6a+</grado>
+      <metri>17</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Breve continuit&agrave; sulle dita e passo di braccia</note>
+    </via>
+
+    <via num="4">
+      <nome>Fila la lana</nome>
+      <grado>6a+</grado>
+      <metri>17</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Dita e movimento</note>
+    </via>
+
+    <via num="5">
+      <nome>Orgoglio Placcato</nome>
+      <grado>6b</grado>
+      <metri>18</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Splendida via di Genova (alias Stefano Bendola). Movimento, buon uso dei piedi e dita forti per questo cortometraggio</note>
+    </via>
+
+    <via num="6">
+      <nome>Sei basso</nome>
+      <grado>6b</grado>
+      <metri>18</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Continuit&agrave; di braccia e poi dita</note>
+    </via>
+
+    <via num="7">
+      <nome>Via mia</nome>
+      <grado>6c</grado>
+      <metri>17</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Continuit&agrave; di braccia e poi dita</note>
+    </via>
+
+    <via num="8">
+      <nome>Hotel Supramonte</nome>
+      <grado>5b</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Gianni Taglianini</chiodatore>
+      <note>Continuit&agrave; su prese buone</note>
+      <storia>Dicembre 2006</storia>
+    </via>
+
+    <via num="9">
+      <nome>La freccia</nome>
+      <grado>6b+</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Movimento e continuit&agrave; di dita. Richiesto buon uso di piedi</note>
+    </via>
+
+    <via num="10">
+      <nome>Caro amore</nome>
+      <grado>6a</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Movimento e continut&agrave; di dita</note>
+    </via>
+
+    <via num="11">
+      <nome>Quei giorni perduti</nome>
+      <grado>6a+</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre alias Stefano Trebbi</chiodatore>
+      <note>Movimento e continut&agrave; di dita</note>
+    </via>
+
+    <via num="12">
+      <nome>Via del campo</nome>
+      <grado>6a</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Movimento e continut&agrave; di dita</note>
+      <storia></storia>
+    </via>
+
+    <via num="13">
+      <nome>La canzone di Marinella</nome>
+      <grado>6a</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Roccia non proprio... di qualit&agrave;</note>
+    </via>
+
+    <via num="14">
+      <nome>Sogno di Maria</nome>
+      <grado>6b</grado>
+      <metri>17</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Via poco frequentata che meriterebbe pi&ugrave; attenzione. Abbastanza atletica con singolo di braccia e dita</note>
+    </via>
+
+    <via num="15">
+      <nome>Amore che vieni amore che vai</nome>
+      <grado>6b</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Discontinua. Qualche passo di braccia</note>
+      <storia>Marzo 2007</storia>
+    </via>
+
+    <via num="16">
+      <nome>In un vortice di polvere</nome>
+      <grado>6b</grado>
+      <metri>17</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Movimento e sequenze di dita</note>
+    </via>
+
+    <via num="17">
+      <nome>Un giudice (nano)</nome>
+      <grado>6a</grado>
+      <metri>15</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Gianni Tagliavini</chiodatore>
+      <note>Passi di braccia inframmezzati da buoni riposi</note>
+    </via>
+
+    <via num="18">
+      <nome>Intrusioni</nome>
+      <grado>6c</grado>
+      <metri>16</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Facile la partenza ma il seguito necessita dita d'acciaio che collaborano alla perfezione con le punte delle scarpette. Occhio alle ultime 3 tacche prima della catena che, oltre ad essere spesso sporche, dopo pioggia sono bagnate e dure da tenere! Bella via, dura e condizioni-dipendente.</note>
+      <storia>Via del 2007</storia>
+    </via>
+
+    <via num="19">
+      <nome>Bocca di rosa</nome>
+      <grado>6b</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Movimento e sequenze di dita</note>
+    </via>
+
+    <via num="20">
+      <nome>Intuizioni</nome>
+      <grado>7a+</grado>
+      <metri>16</metri>
+      <rinvii>6</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Davvero una bellissima intuizione! Se temete i chiodi lunghi e i passi "obligatori"... astenetevi. Il crux per uno basso (160-175cm) sfiora forse il 7b. Per gli alti le cose son piu' semplici e... diverse (il crux si imposta diversamente)</note>
+      <storia>Via del 2007</storia>
+    </via>
+
+    <via num="21">
+      <nome>Il chimico</nome>
+      <grado>6b</grado>
+      <metri>14</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Fra le pi&ugrave; belle del Belvedere. Sequenza di movimento, buon uso di piedi per una via che richiede decisione, equilibrio e un p&ograve; di forza nelle dita</note>
+    </via>
+
+    <via num="22">
+      <nome>Mastica e sputa</nome>
+      <grado>6b</grado>
+      <metri>14</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Stefano Manelli</chiodatore>
+      <note>Movimento e sequenze di dita</note>
+    </via>
+
+    <via num="23">
+      <nome>Dolcenera</nome>
+      <grado>6a+</grado>
+      <metri>14</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Stefano Manelli</chiodatore>
+      <note>Bella via di braccia su roccia mediocre</note>
+      <storia>Dicembre 2006</storia>
+    </via>
+
+    <via num="24">
+      <nome>Le nuvole</nome>
+      <grado>6b+</grado>
+      <metri>14</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Continuit&agrave; su braccia</note>
+    </via>
+
+    <via num="25">
+      <nome>L'ammalato di cuore</nome>
+      <grado>6c</grado>
+      <metri>16</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Continuit&agrave; su braccia</note>
+    </via>
+
+    <via num="26">
+      <nome>Porco parco</nome>
+      <grado>7a+</grado>
+      <metri>16</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Partenza di solito molto bagnata e umida dopo lunghi periodi di pioggia. Ottima via d'allenamento per le sere Primaverili, estive e autunnali. Prima sequenza chiave fisica su biditi stesi e secondo crux su terenno leggermente appoggiato con micro appigli e microappoggi. Molto bella!</note>
+      <storia>Via del 2007</storia>
+    </via>
+
+    <via num="27">
+      <nome>Skorpio</nome>
+      <grado>6b+</grado>
+      <metri>15</metri>
+      <rinvii>?</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Pietro Vanzi / Benni</chiodatore>
+      <note> ---- </note>
+      <storia>Ex 7b di Pietro e Marcao modificato da Benni. Dopo la modifica il nome della via ha perso la "n" finale</storia>
+    </via>
+
+    <via num="28">
+      <nome>Via-gra</nome>
+      <grado>6c</grado>
+      <metri>15</metri>
+      <rinvii>?</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Bellissimi movimenti e lavoro certosino con i piedi per questa via corta e cazzuta. Astenersi i deboli di braccia</note>
+      <storia>A Genova sono sempre piaciuti i giochi di parole. Peccato per il sasso avvitato che comunque &egrave; un segno di un epoca passata molto bricolage</storia>
+      <note2>[Genova: motivo del nome e' che la via rimane sempre dura. Sia la placca (quasi naturale) che lo strapiombo]</note2>
+    </via>
+
+  </settore>
+</xml>

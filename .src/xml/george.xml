@@ -1,0 +1,79 @@
+<xml>
+<settore nome="George's dream">
+ <foto>Nella foto: Roberta su "buon compleanno"</foto>
+    <bg_color>#dddfeb</bg_color>
+
+ <via num="1">
+  <nome>Il ruggito del coniglio</nome>
+  <grado>7a+</grado>
+  <metri>12</metri>
+  <rinvii>6</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Molto varia, intensa ed espolosiva. Passi di braccia all'inizio sul diedro-fesuura. Poi dita forti per tenere i mono e bi-diti della seconda parte</note>
+  <storia>Via recente (2007)</storia>
+ </via>
+
+ <via num="2">
+  <nome>Esilina Facilina</nome>
+  <grado>5b</grado>
+  <metri>13</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Bella via didattica e tecnica. Molto impostata su piedi e movimento</note>
+ </via>
+
+ <via num="3">
+  <nome>Difficilina biricchina</nome>
+  <grado>6a</grado>
+  <metri>12</metri>
+  <rinvii>8</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Continuit&agrave; di braccia</note>
+ </via>
+
+ <via num="4">
+  <nome>Io speriamo che non cado</nome>
+  <grado>5c</grado>
+  <metri>14</metri>
+  <rinvii>9</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Movimento morfologico a met&agrave; che non aiuta i pi&ugrave; bassi (sotto l'1 e 60). Traversino impegnativo a 2/3. Movimenti di braccia</note>
+ </via>
+
+ <via num="5">
+  <nome>Buon compleanno</nome>
+  <grado>6b+</grado>
+  <metri>18</metri>
+  <rinvii>11</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Sequenza di dita a met&agrave;</note>
+  <storia>Fra le prime vie di Fosso. All'epoca un trapano come regalo di compleanno a Marcello</storia>
+ </via>
+
+ <via num="6">
+  <nome>Franca</nome>
+  <grado>6a+</grado>
+  <metri>16</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Giorgio Ferioli</chiodatore>
+  <note>Da non sottovalutare! Movimenti lunghi e fisici su prese buone</note>
+ </via>
+
+ <via num="7">
+  <nome>Cuore inquieto</nome>
+  <grado>6b</grado>
+  <metri>16</metri>
+  <rinvii>10</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Fisica e di braccia la prima parte, di piedi la seconda</note>
+ </via>
+
+</settore>
+</xml>

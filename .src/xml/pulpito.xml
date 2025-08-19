@@ -1,0 +1,57 @@
+<xml>
+  <settore nome="Il pulpito">
+    <bg_color>#d2d1cc</bg_color>
+    <foto>Nella foto: Spiro in acrobazia ripulisce Fanny e Alexander</foto>
+
+    <via num="1">
+      <nome>Il silenzio</nome>
+      <grado>6a+</grado>
+      <metri>14</metri>
+      <rinvii>7</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Via corta di dita</note>
+    </via>
+
+    <via num="2">
+      <nome>La fontana della vergine</nome>
+      <grado>6a</grado>
+      <metri>14</metri>
+      <rinvii>7</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Come la precedente ma su tacche migliori</note>
+    </via>
+
+    <via num="3">
+      <nome>Il settimo sigillo</nome>
+      <grado>6a+</grado>
+      <metri>14</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via in fessura/diedro</note>
+    </via>
+
+    <via num="4">
+      <nome>Fanny e Alexander</nome>
+      <grado>6c</grado>
+      <metri>11</metri>
+      <rinvii>5</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Stefano Manelli</chiodatore>
+      <note>La pi&ugrave; bella del settore. Continuit&agrave; su braccia... asfissiante! Corta e velenosa. Ottima per allenarsi</note>
+    </via>
+
+    <via num="5">
+      <nome>Il posto delle fragole</nome>
+      <grado>6b</grado>
+      <metri>14</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via abbastanza facile che parte con chiusure atletiche di braccia su prese buone. Riposo molto buono a met&agrave;</note>
+    </via>
+
+  </settore>
+</xml>

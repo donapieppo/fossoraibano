@@ -1,0 +1,4 @@
+add_image_from_file("./pdf/nolimits_wall.jpg", 250, 500)
+text settore.nome, :font_size => 20, :left => 100
+
+

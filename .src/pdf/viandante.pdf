@@ -1,0 +1,3 @@
+#pdf.add_image_from_file("./pdf/viandante.jpg", 60, 700, 500)
+text settore.nome, :font_size => 20, :left => 100
+

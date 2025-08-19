@@ -1,0 +1,115 @@
+<xml>
+  <settore nome="Placca delle meraviglie">
+    <bg_color>#bcaa9e</bg_color>
+    <note>
+      Settore storico ricco di memorie e forti emozioni legate in gran parte alla Capanna.
+      L'ex proprietario del terreno ovviamente non la vedeva di buon occhio. 
+      Purtroppo qualche anno dopo la costruzione venne mandata in fumo, di notte, non si &egrave; mai saputo da chi. 
+      A detta di chi l'ha frequentata la capanna era una sorta di rifugio, bella arroccata nel suo angolo, alta sotto il tettone delle placche.
+      Le serate d'estate, dopo il lavoro, era per qualcuno il punto fisso del ritrovo infrasettimanale.
+      Scrivendo questo, il nostro pensiero ed affetto va al mitico Gian Paolo Baraldi che si era fatto in quattro per costruirla.
+      Le vie di questo settore sono le pi&ugrave; lunghe di Fosso e vanno da un minimo di 23 ad un massimo di 27 metri e sono per lo pi&ugrave; sullo stesso grado (6a+) tranne la prima a sinistra e le ultime due a destra.
+      Il terreno di gioco &egrave; costituito da roccia di buona qualit&agrave; leggermente appoggiata.
+      Arrampicata tecnica quindi e mai di forza eccezion fatta per la "Rue du cinno" che richiede forza di braccia e buone dita.
+
+      Tutte le vie sono di Benni.
+    </note>
+
+
+    <via num="1">
+      <nome>Pensaci Giacomino</nome>
+      <grado>6b</grado>
+      <metri>23</metri>
+      <rinvii>11</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Interessante via di movimento e dita</note>
+      <storia>Partenza modificata dopo la frana di Pasqua 2003</storia>
+    </via>
+
+    <via num="2">
+      <nome>Profumo di muschio</nome>
+      <grado>6a+</grado>
+      <metri>23</metri>
+      <rinvii>10</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Tecnica, movimento e ottimo uso dei piedi come per altro richiesto su tutte le vie del settore</note>
+    </via>
+
+    <via num="3">
+      <nome>La radice sotto il tetto</nome>
+      <grado>6a+</grado>
+      <metri>24</metri>
+      <rinvii>11</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>La pi&ugrave; fisica (per il grado) del settore. La radice fa presa e introduce al crux di braccia</note>
+    </via>
+
+    <via num="4">
+      <nome>Il ponte dei sospiri</nome>
+      <grado>6b</grado>
+      <metri>24</metri>
+      <rinvii>11</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bellissima via con partenza atletica e molto movimento prima a destra e poi a sinistra</note>
+      <storia>Occhio al nido di uccelli a 10 metri circa. Astenersi quando ci sono le uova e i piccoli (mesi da aprile a luglio)</storia>
+    </via>
+
+    <via num="5">
+      <nome>Meditazione Zen</nome>
+      <grado>6b</grado>
+      <metri>26</metri>
+      <rinvii>12</rinvii>
+      <bellezza>*****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Il capolavoro di Benni ed una delle vie pi&ugrave; belle di tutta Fosso. Divertentissimo viaggio di tecnica ed equilibrio</note>
+    </via>
+
+    <via num="6">
+      <nome>L'ombra del vento</nome>
+      <grado>6a+</grado>
+      <metri>26</metri>
+      <rinvii>11</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella ma un poco costretta e quasi imposta in modo forzato in un posto che era gi&agrave; saturo di vie. Un poco di confusione su dove passare.</note>
+      <storia>Aperta poco dopo la frana del 2003</storia>
+    </via>
+
+    <via num="7">
+      <nome>La sostenibile pesantezza del non essere</nome>
+      <grado>6a+</grado>
+      <metri>27</metri>
+      <rinvii>12</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bellissima anche questa via. Di solito sporca ma molto completa e varia. Partenza un poco "cazzuta" e poi un mix di tecnica e movimento dove i piedi prendono il sopravvento</note>
+    </via>
+
+    <via num="8">
+      <nome>Rue du Cinno (via del Cinno)</nome>
+      <grado>6c</grado>
+      <metri>25</metri>
+      <rinvii>?</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via che parte un poco a sinistra delle scale dell'ex-capanna. Due passi di braccia per superare il tetto. Dita ed un buon uso di piedi per la parte bassa. Spettacolare e molto fotogenica per via del tetto. Di solito sporca, soprattutto le due prese buone per uscire dal tetto. Cordino appena sostituito sul tetto (luglio 2007). Andate sereni!!</note>
+      <storia>Dedicata a Luca, figlio di Benni, per via del suo soprannome</storia>
+    </via>
+
+    <via num="9">
+      <nome>Fumo di Londra</nome>
+      <grado>6c</grado>
+      <metri>26</metri>
+      <rinvii>12</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Ecco un altro gioiello del genio di Benni. Entusiasmante via di tecnica e movimento che supera con astuzia e intelligenza il tetto traversando a destra. Qualche passaggio richiede forza nelle dita</note>
+      <storia>In origine si chiamava "La gatta sul tetto che sghetta", ma ha cambiato nome quando &egrave; stata bruciata la capanna</storia>
+    </via>
+
+  </settore>
+</xml>

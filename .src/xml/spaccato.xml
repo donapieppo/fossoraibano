@@ -1,0 +1,68 @@
+<xml>
+  <settore nome="Spaccato d'onda">
+    <bg_color>#b6b1a8</bg_color>
+    <note>Vie corte e atletiche con passi particolari su roccia leggermente strapiombante.</note>
+    <foto>Nella foto: Roberta su "l'onda della sera"</foto>
+
+    <via num="1">
+      <nome>Jonathan Livingston</nome>
+      <grado>6c+</grado>
+      <metri>13</metri>
+      <rinvii>8</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via! Peccato che la tacca del passo duro ci stia piano piano abbandonando. Per il momento 6c+. Domani chi sa?</note>
+    </via>
+
+    <via num="2">
+      <nome>Pas de dance</nome>
+      <grado>7a</grado>
+      <metri>14</metri>
+      <rinvii>6</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Passo di danza sul chiave della via (ma gia alti sono avvantaggiati). Inno e omaggio alla scuola francese</note>
+    </via>
+
+    <via num="3">
+      <nome>Suspiria</nome>
+      <grado>6b</grado>
+      <metri>13</metri>
+      <rinvii>6</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella intuizione di Benni che ha sfruttato in modo ammirevole le onde e la conformazione dell'arenaria. Via atletica e di braccia</note>
+    </via>
+
+    <via num="4">
+      <nome>Spaccato d'onda</nome>
+      <grado>6b+</grado>
+      <metri>14</metri>
+      <rinvii>8</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Via che si muove sullo spigolo con una sequenza durissima di tre movimenti a met&agrave;</note>
+    </via>
+
+    <via num="5">
+      <nome>Flusso e riflusso</nome>
+      <grado>6a+</grado>
+      <metri>13</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via forse un poco lucida sugli appoggi. Minimalista e molto delicata la prima parte. Quindi una sequenza fisica di braccia all'uscita dalla pancia</note>
+    </via>
+
+    <via num="6">
+      <nome>L'onda della sera</nome>
+      <grado>5b</grado>
+      <metri>12</metri>
+      <rinvii>5</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Interessantissima via didattica per principianti</note>
+    </via>
+
+  </settore>
+</xml>

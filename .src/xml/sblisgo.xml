@@ -1,0 +1,125 @@
+<xml>
+  <settore nome="Placca dello sblisgo">
+    <foto>Gas spalmato</foto>
+    <bg_color>#c5bfaf</bg_color>
+
+    <via num="1">
+      <nome>Miricae</nome>
+      <grado>6c+</grado>
+      <metri>10</metri>
+      <rinvii>5</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Bella via corta, continua e molto cazzuta. Abbastanza atletica per lo piu' su biditi-triditi</note>
+    </via>
+
+    <via num="2">
+      <nome>Svincia</nome>
+      <grado>5b</grado>
+      <metri>15</metri>
+      <rinvii>5</rinvii>
+      <bellezza>*</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Facile arrampicata su brese buonette</note>
+      <storia>L'ultima arrivata (giugno 2007)</storia>
+    </via>
+
+    <via num="3">
+      <nome>Sbling</nome>
+      <grado>5b</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>Bellissima via di introduzione nel mondo dell'arrampicata appoggiata dove l'uso dei piedi e' di fondamentale importanza</note>
+    </via>
+
+    <via num="4">
+      <nome>Sbleng</nome>
+      <grado>6a+</grado>
+      <metri>15</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Bella via di movimento con qualche passo di dita</note>
+      <note2>[Genova: se al penultimo chiodo si sale diretti (dove varia la pendenza) la difficolt&agrave; &egrave; 6c e la via &egrave; totalmente naturale. Se si aggira a sinistra come fanno quasi tutti la difficolt&agrave; (e la bellezza dei passaggi) cala drasticamente (5b la prima parte e 6a la seconda)]</note2>
+
+    </via>
+
+    <via num="5">
+      <nome>Patabang</nome>
+      <grado>6a+</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Marco - il lungo - Mazzanti e Enrico</chiodatore>
+      <note>Il nome, ispirato agli scivoloni appoggiati granitici della Val di Mello, introduce allo stile di arrampicata richiesto. Se state cercando delle prese buone per le mani... state sbagliando qualcosa!</note>
+    </via>
+
+    <via num="6">
+      <nome>Patatrak</nome>
+      <grado>6a</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Sullo stampo della precedente ma un poco pi&ugrave; facile</note>
+    </via>
+
+    <via num="7">
+      <nome>Unghia Raspante</nome>
+      <grado>6b</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via con breve sequenza precaria su tacche sfuggenti</note>
+    </via>
+
+    <via num="8">
+      <nome>Autorizzazione a procedere</nome>
+      <grado>6c</grado>
+      <metri>15</metri>
+      <rinvii>5</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>La via richiede buon uso di gomma e molta fiducia nei piedi, ma non basta! Sul crux bisogna avere dita d'acciaio</note>
+      <storia>Dopo l'apertura della via (vicina) di Benni a sinistra, il crux e' evitabile utilizzando a sinistra una tacca di patatrac...</storia> 
+      <note2>[Genova: Durante l'inchiesta ``mani pulite'' e' stato inquisito Andreotti. 
+      Dopo qualche mese e' stata data: ``l'autorizzazione a procedere'' all'indagine in corso. Da qu&igrave; il nome della via.
+        I primi anni vi era alla base una targhetta con la foto di Andreotti]</note2>
+    </via>
+
+    <via num="9">
+      <nome>Sbedeleng</nome>
+      <grado>6a</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Maurizio Tatini</chiodatore>
+      <note>La via sen'altro piu' popolare di fosso!! Memorabile il passo particolare sul triangolo di alabastro</note>
+    </via>
+
+    <via num="10">
+      <nome>Dai che ce la fai</nome>
+      <grado>4a</grado>
+      <metri>13</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Via interessante e didattica, ottima per i principianti. Chiodatura molto corta</note>
+    </via>
+
+    <via num="11">
+      <nome>Squinci</nome>
+      <grado>4a</grado>
+      <metri>10</metri>
+      <rinvii>5</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Simile alla precedente. Un poco meno bella e un poco pi&ugrvae; facile</note>
+      <storia>Aperta nel Maggio del 2007</storia>
+    </via>
+
+  </settore>
+</xml>

@@ -1,0 +1,137 @@
+<xml>
+  <settore nome="Fosso Vecchio">
+    <bg_color>#f5dead</bg_color>
+
+    <via num="1">
+      <nome>Korogocho</nome>
+      <grado>6a+</grado>
+      <metri>18</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Bel diedro-fessura a tratti impegnativo. Roccia scadente in partenza</note>
+    </via>
+
+    <via num="2">
+      <nome>All'ombra</nome>
+      <grado>6b</grado>
+      <metri>18</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Continuit&agrave; sugli avambracci</note>
+    </via>
+
+    <via num="3">
+      <nome>Dolcezze</nome>
+      <grado>6a+</grado>
+      <metri>17</metri>
+      <rinvii>10</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova - M. Ferioli</chiodatore>
+      <note>Bellissima via di introduzione al settore</note>
+    </via>
+
+    <via num="4">
+      <nome>Stress</nome>
+      <grado>7b+</grado>
+      <metri>16</metri>
+      <rinvii>10</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>vanni</chiodatore>
+      <note>La prima via di Fosso!!! Via storica dove come catena alla fine della via c'era un cordino sull'albero per calarsi in doppia. Tre sezioni molto impegnative sulle dita. Molto bella!</note>
+    </via>
+
+    <via num="5">
+      <nome>Millennium</nome>
+      <grado>6c+</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Genova</chiodatore>
+      <note>Magic movement! In questa via uno dei movimenti/sequenze pi&ugrave; belli di Fosso. Richieste dita d'acciaio e resistenza per uscire in catena</note>
+    </via>
+
+    <via num="6">
+      <nome>Stiv la rana verde</nome>
+      <grado>7b</grado>
+      <metri>18</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>A. Corticelli</chiodatore>
+      <note>Continuit&agrave; asfissiante su braccia e avambracci. La piu&ugrave; fisica e atletica del settore</note>
+    </via>
+
+    <via num="7">
+      <nome>Barbera e pop corn</nome>
+      <grado>7a</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Bellissima via. Movimenti particolari su roccia particolare</note>
+    </via>
+
+    <via num="8">
+      <nome>Josh way (L'ultima onda)</nome>
+      <grado>7a+</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>*</bellezza>
+      <chiodatore>Gi&ograve; Balestra</chiodatore>
+      <note>Sequenza impegnativa su mono e biditi</note>
+    </via>
+
+    <via num="9">
+      <nome>Kalashnikov</nome>
+      <grado>7a</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Andrea Corticelli</chiodatore>
+      <note>Tecnica, movimento, buon uso di piedi e dita forti. Meno fisica delle altre</note>
+    </via>
+
+    <via num="10">
+      <nome>Staiven rut</nome>
+      <grado>7b</grado>
+      <metri>16</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Andrea Corticelli</chiodatore>
+      <note>Difficile chiusura sul destro. Un passo particolare e molto bello</note>
+    </via>
+
+    <via num="11">
+      <nome>... e basta!</nome>
+      <grado>6b+</grado>
+      <metri>16</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Sequenze previ di braccia intervallate da tratti facili</note>
+    </via>
+
+    <via num="12">
+      <nome>Megababy</nome>
+      <grado>6b+</grado>
+      <metri>16</metri>
+      <rinvii>6</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Claudio</chiodatore>
+      <note>Via molto complessa (per il suo grado). Tecnica e movimento la prima parte</note>
+    </via>
+
+    <via num="13">
+      <nome>E. T.</nome>
+      <grado>7a+</grado>
+      <metri>18</metri>
+      <rinvii>8</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Andrea Corticelli</chiodatore>
+      <note>Passo particolare a met&agrave;</note>
+    </via>
+
+  </settore>
+</xml>
+

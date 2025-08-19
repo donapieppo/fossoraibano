@@ -1,0 +1,4 @@
+# A4" => [0, 0, 595.28, 841.89]
+add_image_from_file("./pdf/belvedere_targa.jpg", 40, 250)
+text settore.nome, :font_size => 20, :left => 100
+

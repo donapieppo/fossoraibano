@@ -1,0 +1,5 @@
+text settore.nome, :font_size => 20, :left => 100
+add_image_from_file("./pdf/spaccato_disegno.jpg", 270, 295)
+
+
+

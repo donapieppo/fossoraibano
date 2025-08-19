@@ -1,0 +1,192 @@
+<xml>
+  <settore nome="No chances">
+    <bg_color>#7f9fc8</bg_color>
+    <foto>Benni che crea</foto>
+
+    <via num="1">
+      <nome>Sognando gli alisei</nome>
+      <grado>6c</grado>
+      <metri>18</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Grande intuizione di Benni che scopre una linea bella con una sola presa scavata. Via di sequenza "secca" con un passo particolare</note>
+    </via>
+
+    <via num="2">
+      <nome>Il vento mormora pensieri...</nome>
+      <grado>6b</grado>
+      <metri>20</metri>
+      <rinvii>12</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Una delle ultime nate nel settore. Sequenza fisica all'inizio e movimento nella parte seguente</note>
+    </via>
+
+    <via num="3">
+      <nome>... e raccoglie desideri</nome>
+      <grado>6a+</grado>
+      <metri>20</metri>
+      <rinvii>12</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Continuit&agrave; e movimento. Via molto omogenea</note>
+    </via>
+
+
+    <via num="4">
+      <nome>Vento dell'ovest</nome>
+      <grado>6a</grado>
+      <metri>18</metri>
+      <rinvii>12</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bei movimenti su roccia, purtroppo, spesso sporca. Continuit&agrave; e movimento</note>
+    </via>
+
+    <via num="4">
+      <nome>Vento dell'est</nome>
+      <grado>6a</grado>
+      <metri>19</metri>
+      <rinvii>11</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Variante in partenza di Vento dell'ovest</note>
+    </via>
+
+    <via num="5">
+      <nome>Progetto di Claudio</nome>
+      <grado></grado>
+      <metri></metri>
+      <rinvii></rinvii>
+      <bellezza></bellezza>
+      <chiodatore>Claudio</chiodatore>
+      <note>-</note>
+    </via>
+
+    <via num="6">
+      <nome>Ne capo ne coda</nome>
+      <grado>6c</grado>
+      <metri>14</metri>
+      <rinvii>5</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Denis Bengaglia</chiodatore>
+      <note>Una via nuova subito diventata una classica! Corta ed impegnativa con un passo secco a met&agrave;. Una via che richiede forza nelle dita, buon uso dei piedi e coraggio!!</note>
+      <storia>Ci permettiamo di ricordare che in arrampicata libera la sosta, la catena, &egrave; solo l'ultimo ancoraggio da moschettonare e non da cercare di abbrancare disperatamente con le mani. Impegnativo, su questa via, il moschettonaggio della catena</storia>
+    </via>
+
+    <via num="7">
+      <nome>Su ali d'aquila</nome>
+      <grado>7a</grado>
+      <metri>18</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Bellissima fessura sulla prima met&agrave; della via. Quindi movimenti fisici di braccia sul tetto. Fotogenica, spettacolare, varia ed emozionante scalata d'altri tempi</note>
+    </via>
+
+    <via num="8">
+      <nome>Per il popolo</nome>
+      <grado>6c+</grado>
+      <metri>20</metri>
+      <rinvii>10</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Molto impegnativa la prima parte (in crescendo) in placca fino al tettino. Segue una facile sequenza di braccia su prese buone ma distanti</note>
+    </via>
+
+    <via num="9">
+      <nome>... C'era una volta un diedro</nome>
+      <grado>7b</grado>
+      <metri>18</metri>
+      <rinvii>11</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Placca con sequenze impegnative e duro tetto da superare</note>
+    </via>
+
+    <via num="10">
+      <nome>Spoil me Laura</nome>
+      <grado></grado>
+      <metri>?</metri>
+      <rinvii>?</rinvii>
+      <bellezza></bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Via in fase di restauro</note>
+    </via>
+
+    <via num="11">
+      <nome>Lupin e Margot</nome>
+      <grado>6b+</grado>
+      <metri>24</metri>
+      <rinvii>12</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Via entusiasmante ed impegnativa. Di dita la prima parte. Fisica e di movimento la seconda</note>
+    </via>
+
+    <via num="12">
+      <nome>L'ispettore Zazza'</nome>
+      <grado>6c</grado>
+      <metri>20</metri>
+      <rinvii>10</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Fessura impegnativa e movimenti fisici in seguito</note>
+    </via>
+
+    <via num="13">
+      <nome>Demenza... integrale</nome>
+      <grado>7b</grado>
+      <metri>18</metri>
+      <rinvii>8</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>A. Coticelli / Spiro / M. Ferioli</chiodatore>
+      <note>Movimenti belli e molto vari. Molto delicati e di dita gli ultimi metri</note>
+    </via>
+
+    <via num="14">
+      <nome>Boat people</nome>
+      <grado>7a</grado>
+      <metri>20</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Bel viaggio con alcuni singoli molto impegnativi</note>
+      <storia>Nome ispirato allo sbarco dei primi albanesi clandestini</storia>
+    </via>
+
+    <via num="15">
+      <nome>Schiva l'oliva</nome>
+      <grado>7a+</grado>
+      <metri>12</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Alberto Corticelli</chiodatore>
+      <note>Corta ma molto intensa sulle braccia</note>
+    </via>
+
+    <via num="16">
+      <nome>Nessuna chance per i deboli</nome>
+      <grado>7c</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Alberto Corticelli / Spiro</chiodatore>
+      <note>Capolavoro e magnus opus di Alberto Corticelli. Linea che si muove come un serpente sullo spigolone svaso dell'estremo destro del settore. Via con movimenti dinamici che richiedono ottima coordinazione, alternati a sequenze delicate di piedi su roccia leggermente appoggiata</note>
+      <storia>Via-gioiello di Corticelli del 1986!</storia>
+    </via>
+
+    <via num="17">
+      <nome>Le vergini delle rocce</nome>
+      <grado>7c+</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>ferioli</chiodatore>
+      <note>Via di resistenza alla forza su biditi con movimento molto duro e fisico a 2/3</note>
+      <storia>Liberata, finora, solo da Silvano Finotti nel 2007. Grado da confermare</storia>
+    </via>
+
+  </settore>
+</xml>

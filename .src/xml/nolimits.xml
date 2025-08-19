@@ -1,0 +1,211 @@
+<xml>
+<settore nome="No Limits">
+ <foto>il Cinno su bella e impossibile.</foto>
+
+ <via num="1">
+  <nome>Aria sottile</nome>
+  <grado>6a</grado>
+  <metri>10</metri>
+  <rinvii>5</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Facile via tecnica con movimento particolare in alto</note>
+ </via>
+
+ <via num="2">
+  <nome>Into the wild</nome>
+  <grado>6b+</grado>
+  <metri>14</metri>
+  <rinvii>7</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Bella via di tecnica e movimento</note>
+ </via>
+
+ <via num="3">
+  <nome>Un elefante dentro una cristalleria</nome>
+  <grado>6a+</grado>
+  <metri>15</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Marcello Ferioli - Denis Bengaglia</chiodatore>
+	<note>Nome ispirato da una raccolta di lettere che parlano d'Amicizia e Amore.
+	      Via di tecnica e movimento con qualche allungo qua e l&agrave;</note>
+ </via>
+
+ <via num="4">
+	 <nome>IL Profeta (progetto)</nome>
+	 <grado>?</grado>
+	 <metri>18</metri>
+	 <rinvii>9</rinvii>
+	 <bellezza>?</bellezza>
+	 <chiodatore>ferioli</chiodatore>
+	 <note>Parte in comune con "Cacciatore..." e devia a sinistra</note>
+ </via>
+
+ <via num="5">
+  <nome>Il Cacciatore di Aquiloni</nome>
+  <grado>6c</grado>
+  <metri>16</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+	<note>Continuita su strapiombo il "grosso" di questa via.
+		    Sulla placca: resistenza e movimento su tacche.</note>
+ </via>
+
+ <via num="6">
+	<nome>I have a dream (M.L.King)</nome>
+  <grado>8a</grado>
+  <metri>22</metri>
+  <rinvii>10</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+	<note>Spettacolare via che parte da "Il Cacciatore di Aquiloni" ed esce sulla catena di "Troponina". Resistenza e Continuit&agrave; con 3 "filtri"</note>
+ </via>
+
+ <via num="7">
+  <nome>Eppure</nome>
+  <grado>6b+</grado>
+  <metri>18</metri>
+  <rinvii>11</rinvii>
+  <bellezza>*</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Via abbastanza atletica con partenza in leggero strapiombo e uscita su placca</note>
+ </via>
+
+ <via num="8">
+  <nome>L'Alchimista</nome>
+  <grado>7a+</grado>
+  <metri>18</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Continuit&agrave; in strapiombo su biditi la prima met&agrave; e continuit&agrave; di dita e tecnica la seconda parte. Un MUST per il settore</note>
+ </via>
+
+ <via num="9">
+  <nome>Gomorra</nome>
+  <grado>7b</grado>
+  <metri>20</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Via spettacolare, soprattutto quando cambia l'inclinazione! Continuit&agrave; di dita su terreno leggermente strapiombante</note>
+ </via>
+
+ <via num="10">
+	 <nome>... Un indovino mi disse... (progetto)</nome>
+	 <grado>?</grado>
+	 <metri>20</metri>
+	 <rinvii>10</rinvii>
+	 <bellezza>?</bellezza>
+	 <chiodatore>ferioli</chiodatore>
+	 <note></note>
+ </via>
+
+ <via num="11">
+  <nome>Troponina</nome>
+  <grado>7c</grado>
+  <metri>15</metri>
+  <rinvii>9</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Biditi su forte strapiombo e singolo a met&agrave;. Fisica e molto atletica</note>
+ </via>
+
+ <via num="12">
+  <nome>The Froll</nome>
+  <grado>N.L.(8b+?)</grado>
+  <metri>14</metri>
+  <rinvii>7</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>S. Finotti</chiodatore>
+  <note>Movimenti fisici su forte strapiombo. Un mix di biditi, tacche e rovesci</note>
+ </via>
+
+ <via num="13">
+  <nome>Bella e Impossibile</nome>
+  <grado>8a</grado>
+  <metri>14</metri>
+  <rinvii>7</rinvii>
+  <bellezza>*</bellezza>
+	<chiodatore>vanni</chiodatore>
+	<note>Dopo il restauro "biblico" di Marcello Ferioli... &egrave; di nuovo possibile!!! Allunghi su strapiombo e spallata        sinistra finale.</note>
+  <storia>Primo 8a dell'Emilia Romagna! Via del 1986 che ha avuto anche alcune celebri visite (Pierino Dal Pr&agrave;). Nella sua versione restaurata, prima R.P. di Silvano Finotti nel Dicembre 2008 che ha confermato la difficolt&agrave;</storia>
+ </via>
+
+ <via num="14">
+  <nome>Yes we can!</nome>
+  <grado>8a</grado>
+  <metri>14</metri>
+  <rinvii>7</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Partenza spettacolare e proseguimento si biditi, tacche e rovesci. Asfissiante, corta e veloce. Resistenza alla forza.</note>
+ </via>
+
+ <via num="15">
+  <nome>Silvano Spacciato</nome>
+  <grado>7b+</grado>
+  <metri>14</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>L. Finotti</chiodatore>
+  <note>Via molto interessante che riprende la sequenza di movimenti della mitica "Orient Express" di Lumignano. Corta e di resistenza. Recentemente resinata</note>
+  <storia>Dedicata al fratello di Lorenzo (Silvano) quando aveva il dito anulare ingessato e non poteva scalare</storia>
+ </via>
+
+ <via num="16">
+  <nome>Il barman e lo sbirro</nome>
+  <grado>6c</grado>
+  <metri>14</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Luigi Trippa, l'ex-sbirro e il Barman Marco...</chiodatore>
+  <note>Via fisica di braccia</note>
+ </via>
+
+ <via num="17">
+  <nome>Ghibli</nome>
+  <grado>6c</grado>
+  <metri>16</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Bella via tecnica. Attenzione in alto alla lama di destro... che sta per venire gi&ugrave;!</note>
+ </via>
+
+ <via num="18">
+  <nome>Il viale del tramonto (... scarpinand par la stre, col soul calsarpiata, sot alla cuerta e la lom la sa smorza)</nome>
+  <grado>6b+</grado>
+  <metri>15</metri>
+  <rinvii>8</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Movimenti vari ed interessanti su roccia discreta. Tecnica e movimento</note>
+	<storia>Via del 2007 gradata 6a+. Prese un po' consumate hanno fatto lievitare il grado. Agg. Giugno 2010</storia>
+ </via>
+
+ <via num="19">
+  <nome>Aspettando la Luna</nome>
+  <grado>6c</grado>
+  <metri>15</metri>
+  <rinvii>8</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Bei movimenti. Divertente via su prese buone ora consumate (un tempo era 6a+)</note>
+ </via>
+
+ <via num="20">
+  <nome>Non si tocca</nome>
+  <grado>6c</grado>
+  <metri>15</metri>
+  <rinvii>8</rinvii>
+  <bellezza>*</bellezza>
+  <chiodatore>Jonny Mazzetti</chiodatore>
+  <note>Movimenti atletici in leggero strapiombo e singolo a met&agrave;</note>
+ </via>
+
+</settore>
+</xml>

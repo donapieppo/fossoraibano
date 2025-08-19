@@ -1,0 +1,278 @@
+<xml>
+  <settore nome="Gran Canyon">
+    <bg_color>#f8e0be</bg_color>
+
+    <note>
+        &Egrave;, dopo il Belvedere, il secondo settore di Fosso per numero di vie.
+      Le vie si sviluppano nei due pilastri sinistro e destro, nel fondo del canyon e sulla sua parete interna destra.
+      Le vie sui due pilastri appoggiati d'entrata (sin e dx) sono corte mentre quelle dentro il canyon possono superare i 20 metri di sviluppo.
+      Il settore &egrave; abbastanza fresco d'estate.
+    </note>
+
+    <foto>
+      Spiro su "Pappaglli verdi"
+    </foto>
+
+    <via num="1">
+      <nome>Gipidue</nome>
+      <grado>6a+</grado>
+      <metri>14</metri>
+      <rinvii>6</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>bertotti</chiodatore>
+      <note>Interessante via su placca appoggiata con qualche passo di dita e di braccia</note>
+      <storia>Estate 2006</storia>
+    </via>
+
+    <via num="2">
+      <nome>Prova di taliano</nome>
+      <grado>6b</grado>
+      <metri>14</metri>
+      <rinvii>6</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>bertotti</chiodatore>
+      <note>Come la precedente</note>
+      <storia>Estate 2006</storia>
+    </via>
+
+    <via num="3">
+      <nome>Viaggio in Cina</nome>
+      <grado>5b</grado>
+      <metri>15</metri>
+      <rinvii>6</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>bertotti</chiodatore>
+      <note> La pi&ugrave; facile del settore. Richiede buon uso di piedi</note>
+      <storia>Estate 2006</storia>
+    </via>
+
+    <via num="4">
+      <nome>Tre querce</nome>
+      <grado>5c/6b/2/6a</grado>
+      <metri>56</metri>
+      <rinvii>7</rinvii>
+      <bellezza></bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note> Ecco l'unica via lunga(?!!) di Fosso.
+      Il primo tiro (5c/14m/***) si sviluppa su placca appoggiata e su prese buone ma distanti.
+      Dalla catena del 5c ci portiamo su una comoda cengia da dove parte il secondo tiro pi&ugrave; duro e il pi&ugrave; bello.
+      La roccia &egrave; scadente in partenza e quindi fate attenzione fino a quando mettete il primo rinvio.
+      Arrampicata abbastanza continua di dita con riposo a 2/3 e uscita di braccia fino alla seconda catena.
+      Una volta arrivati in catena vi conviene usare la corda fissa per raggiungere una comoda cengia con
+      una bella vista!
+      Camminando arriviamo ora ad un albero con fettuccia per autoassicurarsi.
+      Poiche' questo tratto e quello che segue sono molto sporchi vi consigliamo di usare ancora la corda fissa che permette di
+      raggiungere la cengia base del tiro di uscita (6a/15m/**).
+      Da ogni cengia c'e' la possibilita' di abbandonare attraversandop a destra su sentierino delicato
+      L'ultimo tiro di solito e' molto sporco.
+      Una volta arrivati in catena si sale ancora per 3-4 metri fino a raggiungere il sentiero che ci porta a 
+      destra sulla base di Fosso (anelli di corda sugli alberi ogni 10 metri).
+      Un "viaggio esplorativo" della parte sommitale di Fosso e un invito a scoprire le altre sue bellezze
+    </note>
+  </via>
+
+  <via num="5">
+    <nome>Progetto</nome>
+    <grado>?</grado>
+    <metri>?</metri>
+    <rinvii>?</rinvii>
+    <bellezza>?</bellezza>
+    <chiodatore>ferioli</chiodatore>
+    <note>Progetto per una via per bambini</note>
+  </via>
+
+  <via num="6">
+    <nome>Boulderino assicurato</nome>
+    <grado>5c</grado>
+    <metri>7</metri>
+    <rinvii>2</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>ferioli</chiodatore>
+    <note>Bel boulderino facile con due piastre e mosco di calata. Coordinazione e tecnica</note>
+  </via>
+
+  <via num="7">
+    <nome>Il caldo sulla pelle</nome>
+    <grado>6b</grado>
+    <metri>18</metri>
+    <rinvii>9</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>Benni</chiodatore>
+    <note>Bella via di movimento che segue le spaccature-fessure della roccia</note>
+  </via>
+
+  <via num="8">
+    <nome>... ed e' subito sera</nome>
+    <grado>6a+</grado>
+    <metri>18</metri>
+    <rinvii>9</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>Benni</chiodatore>
+    <note>Una classica del settore. La parte alta richiede buone doti psicologiche (anche se non e' chiodata lunga) e continuit&agrave; sugli
+      avanbracci</note>
+  </via>
+
+  <via num="9">
+    <nome>Bau Bau Miledi</nome>
+    <grado>6a</grado>
+    <metri>18</metri>
+    <rinvii>9</rinvii>
+    <bellezza>**</bellezza>
+    <chiodatore>Benni</chiodatore>
+    <note> - </note>
+    <storia>A Benni era sempre piaciuta l'idea di chiodare o di far passare una via sfruttando gran parte del camino.
+      &Egrave; stato per&ograve; anticipato da piccole frane e da un maialino rimasto incastrato e poi morto proprio dentro il camino!
+    Per circa due anni c'e' stato odore di cadavere fino a che una buona dose di calce viva ha sistemato tutto.
+      A Benni per&ograve; era rimasta ancora la voglia di chiodarlo... beh, se non proprio li, subito di fianco allora!!! </storia>
+  </via>
+
+  <via num="10">
+    <nome>Il pino</nome>
+    <grado>6a</grado>
+    <metri>16</metri>
+    <rinvii>10</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>Benni</chiodatore>
+    <note>Via splendida che dopo l'autunno 2003 ha acquistato un colore e un'importanza particolare per chi scrive queste parole... (ciao Piccola Stella). Arrampicata elegante e tecnica su placca leggermente appoggiata
+  </note>
+</via>
+
+<via num="11">
+  <nome>Gruviera</nome>
+  <grado>6a</grado>
+  <metri>17</metri>
+  <rinvii>9</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Classica. Arrampicata entusiasmante in placca a diedro-dulfer-fessura</note>
+</via>
+
+<via num="12">
+  <nome>Collezione di attimi</nome>
+  <grado>6b+</grado>
+  <metri>16</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Stefano Manelli</chiodatore>
+  <note>Bei movimenti su leggero strapiombo. Di braccia e di dita</note>
+</via>
+
+<via num="13">
+  <nome>Pappagalli verdi</nome>
+  <grado>7b/c</grado>
+  <metri>16</metri>
+  <rinvii>9</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>Pietro Vanzi / Spiro / Marcello Ferioli</chiodatore>
+  <note>Variante sinistra su Avor di cui sfrutta la prima splendida parte per poi continuare in 14 movimenti di dita, velocit&agrave; di esecuzione, tecnica, precisione di piedi e cuore per arrivare a MOSCHETTONARE (e non prendere in mano) la catena. Un gioiello!</note>
+</via>
+
+<via num="14">
+  <nome>Avor</nome>
+  <grado>7b+</grado>
+  <metri>17</metri>
+  <rinvii>9</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>Pietro Vanzi</chiodatore>
+  <note>Stupenda placca minimalista d'altri tempi all'inizio e continuit&agrave; di braccia per la seconda parte della via. 
+    Moschettonata che fa grado</note>
+  <storia>Pietro Vanzi, detto anche il "Boss" non scala pi&ugrave; ma ci ha lasciato in eredit&agrave; a Fosso delle pietre miliari, vie capolavoro. Vie di alta difficolt&agrave; come questa, dove precisione di punta, movimento e dita d'acciaio fanno da padrone</storia>
+</via>
+
+<via num="15">
+  <nome>Zeta</nome>
+  <grado>7c</grado>
+  <metri>18</metri>
+  <rinvii>10</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Pietro Vanzi</chiodatore>
+  <note>Placca minimalista dove, su certi passaggi, anche un respiro di troppo pu&ograve; far cadere. Equilibrio estremo e movimenti precari su prese piccolissime. Richiede buone condizioni climatiche (secco)</note>
+</via>
+
+<via num="16">
+  <nome>Lo spigolo</nome>
+  <grado>6b+</grado>
+  <metri>19</metri>
+  <rinvii>11</rinvii>
+  <bellezza>**</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Via che all'epoca dell'apertura aveva creato qualche attrito e discussioni tra Pietro Vanzi e Benni poich&egrave; invadeva per 2-3 metri lo "spazio aereo" di Zeta.
+    Anche se molto carina... 2 stelle perch&egrave; siamo d'accordo con Pietro e perch&egrave; contrari all'inflazione delle vie e all'estrema saturazione con i chiodi!</note>
+</via>
+
+<via num="17">
+  <nome>Il diedro</nome>
+  <grado>6c</grado>
+  <metri>22</metri>
+  <rinvii>10</rinvii>
+  <bellezza>*****</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Lo spigolo crea attriti, ma il diedro li mette tutti d'accordo. Grande scuola per gli amanti della tecnica e dell'utilizzo dei piedi in aderenza</note>
+  <storia>fra le 5 vie pi&ugrave; belle di Fosso</storia>
+</via>
+
+<via num="18">
+  <nome>Fallo duro</nome>
+  <grado>6c+</grado>
+  <metri>22</metri>
+  <rinvii>10</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Per uscire dalla pancetta finale occorrono decisione e buona continuit&agrave; sugli avambracci fino ad arrivare ai biditi finali</note>
+  <storia>Fra le prime vie del settore, il nome fa riferimento alle incitazioni di Benni a Marcello per il grado della via... </storia>
+</via>
+
+<via num="19">
+  <nome>Mutande di piombo</nome>
+  <grado>7a</grado>
+  <metri>22</metri>
+  <rinvii>11</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Superba placca per gran parte della via ed uscita fisica da nervi saldi.
+    Via completa: movimento, uso dei piedi, dita e braccia</note>
+</via>
+
+<via num="20">
+  <nome>Il vento nei capelli</nome>
+  <grado>6b</grado>
+  <metri>22</metri>
+  <rinvii>12</rinvii>
+  <bellezza>****</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>Via di riferimento per il grado. Molto omogenea e continua. Movimenti di braccia a volte lunghi</note>
+</via>
+
+<via num="21">
+  <nome>Asci-asci Huber Ales</nome>
+  <grado>6b</grado>
+  <metri>23</metri>
+  <rinvii>9</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Attenzione all'inizio causa roccia scadente e spesso molto sporca. La via va a destra all'inizio e gira dietro allo spigolo per poi seguirlo fino alla fine. Molto estetica e di equilibrio. Per gli amanti degli spigoli</note>
+</via>
+
+<via num="22">
+  <nome>La cengia dell'alabastro</nome>
+  <grado>6a+</grado>
+  <metri>14</metri>
+  <rinvii>6</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>Benni</chiodatore>
+  <note>All'inizio era molto pi&ugrave; dura!!! (8a?) e comunque anche adesso non &egrave; la pi&ugrave; accessibile per il grado.
+    Richiede buona tecnica e forza di dite</note>
+</via>
+
+<via num="23">
+  <nome>Aquile randagie</nome>
+  <grado>7a</grado>
+  <metri>14</metri>
+  <rinvii>8</rinvii>
+  <bellezza>***</bellezza>
+  <chiodatore>ferioli</chiodatore>
+  <note>Bella via su placca leggermente appoggiata. Tecnica, buon uso dei piedi e dita forti sono i requisiti richiesti</note>
+</via>
+
+</settore>
+</xml>

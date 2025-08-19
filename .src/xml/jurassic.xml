@@ -1,0 +1,102 @@
+<xml>
+  <settore nome="Jurassic park">
+    <bg_color>#b1a688</bg_color>
+    <note>Settore sviluppato in un secondo momento dopo le vie del Belvedere. Vie non pi&ugrave; lunghe di 15 metri e quasi tutte opera di Genova. Quindi dita forti, piedi precisi e molti spostamenti.</note>
+
+  <foto>
+    Omar su "L'uomo rogna"
+  </foto>
+
+  <via num="1">
+    <nome>L'uomo rogna</nome>
+    <grado>6c+</grado>
+    <metri>15</metri>
+    <rinvii>?</rinvii>
+    <bellezza>*****</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Capolavoro di Genova. Veramente completa e molto varia. Resistenza alla forza. Via di riferimento per il grado. Roccia super!</note>
+  </via>
+
+  <via num="2">
+    <nome>Blok</nome>
+    <grado>6c</grado>
+    <metri>15</metri>
+    <rinvii>?</rinvii>
+    <bellezza>****</bellezza>
+    <chiodatore>Carlo Bonfiglioli</chiodatore>
+    <note>Altro gioiello del settore. Cazzuta fin dalla partenza</note>
+  </via>
+
+  <via num="3">
+    <nome>Mani pulite</nome>
+    <grado>6b</grado>
+    <metri>15</metri>
+    <rinvii>?</rinvii>
+    <bellezza>****</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Bellissima via molto sostenuta. Richiesta resistenza sugli avambracci</note>
+  </via>
+
+  <via num="4">
+    <nome>Piedi sporchi</nome>
+    <grado>5c</grado>
+    <metri>14</metri>
+    <rinvii>?</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Corta e interessante. Attenti alla partenza che di solito i primi appoggi per il piede destro sono bagnati</note>
+  </via>
+
+  <via num="5">
+    <nome>Sulla cresta dell'onda</nome>
+    <grado>5c</grado>
+    <metri>13</metri>
+    <rinvii>?</rinvii>
+    <bellezza>*****</bellezza>
+    <chiodatore>Lustre</chiodatore>
+    <note>Via di riferimento per il grado. Passo tecnico all'inizio che si rivela pi&ugrave; facile di quello che sembra. Poi di movimento su prese sempre buone a volte distanti</note>
+  </via>
+
+  <via num="6">
+    <nome>... Se la conosci la eviti...</nome>
+    <grado>7b</grado>
+    <metri>13</metri>
+    <rinvii>5</rinvii>
+    <bellezza>***</bellezza>
+    <chiodatore>Marcao</chiodatore>
+    <note>Un poco costretta ma molto bella. Via fisica che richiede buone spalle e dita forti</note>
+  </via>
+
+  <via num="7">
+    <nome>Jurassic Park</nome>
+    <grado>7a</grado>
+    <metri>12</metri>
+    <rinvii>6</rinvii>
+    <bellezza>****</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Inizio violento per la mancanza di buoni piedi. Poi richiede grande tecnica su roccia super. Una via di riferimento per il grado</note>
+    <note2>[Genova: Il nome della via Jurassic Park &egrave; per i sassi incastrati nella parte finale (Pietro Vanzi 'il boss' ha fatto la prima salita a vista con me  presente senza accorgersi di un monodito rovescio verso la fine ed ha valutato la via 7b.  Dopo aver visto  il monodito riprovando ha confermato il 7a)]</note2>
+  </via>
+
+  <via num="8">
+    <nome>Yose-mitico</nome>
+    <grado>6c</grado>
+    <metri>12</metri>
+    <rinvii>6</rinvii>
+    <bellezza>****</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Movimenti molto tecnici e qualche passo di dita. Molto bella su roccia super</note>
+  </via>
+
+  <via num="9">
+    <nome>Dolo-mitico</nome>
+    <grado>6c</grado>
+    <metri>12</metri>
+    <rinvii>6</rinvii>
+    <bellezza>****</bellezza>
+    <chiodatore>Genova</chiodatore>
+    <note>Una via quasi tutta naturale su bella roccia. Movimenti molto tecnici e di equilibrio. Molto pi&ugrave; bella di quanto si possa immaginare da sotto</note>
+  </via>
+
+</settore>
+</xml>

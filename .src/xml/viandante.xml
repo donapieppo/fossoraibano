@@ -1,0 +1,77 @@
+<xml>
+  <settore nome="Sogno di un viandante">
+    <bg_color>#ffd69b</bg_color>
+    <foto>Nella foto: Carlotta su "tubero ruspante"</foto>
+
+    <via num="1">
+      <nome>Morbide Carezze</nome>
+      <grado>6c</grado>
+      <metri>16</metri>
+      <rinvii>9</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Dura in partenza con chiodatura che lascia un poco a desiderare, dopo sequenza di dita e uscita su placca appoggiata</note>
+    </via>
+
+    <via num="2">
+      <nome>Soffici Promesse</nome>
+      <grado>6b+</grado>
+      <metri>16</metri>
+      <rinvii>8</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Chiodatura datata da cambiare. Difficile sequenza di dita per superare la pancia subito dopo la partenza. Uscita su placca appoggiata</note>
+    </via>
+
+    <via num="3">
+      <nome>Un Palpito nell'Attesa</nome>
+      <grado>6a</grado>
+      <metri>16</metri>
+      <rinvii>7</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Attenzione al nasone in partenza! Tiratelo con delicatezza... che suona a vuoto. Entrata fisica di braccia. Dopo diventa un poco piu' facile</note>
+    </via>
+
+    <via num="4">
+      <nome>Tubero Ruspante</nome>
+      <grado>6a+</grado>
+      <metri>16</metri>
+      <rinvii>8</rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Inizio fisico su biditi e poi sequenze su tacche</note>
+    </via>
+
+    <via num="5">
+      <nome>Piano Piano Mio Galante</nome>
+      <grado>6c</grado>
+      <metri>16</metri>
+      <rinvii>8</rinvii>
+      <bellezza>****</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>La via piu' bella del settore. Richiesto buon uno dei piedi e molta forza nelle dita</note>
+    </via>
+
+    <via num="6">
+      <nome>Andante con Sospiro</nome>
+      <grado>6b+</grado>
+      <metri>16</metri>
+      <rinvii>8</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Ecco un'altra bella via, breve, sullo stampo della precedente</note>
+    </via>
+
+    <via num="7">
+      <nome>Encore Mon Cheri</nome>
+      <grado>6b</grado>
+      <metri>15</metri>
+      <rinvii>7</rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Lustre</chiodatore>
+      <note>La piu' corta del settore e la prima a destra. Biditi e movimenti fisici all'inizio.Poi dita e uscita su placca appoggiata</note>
+    </via>
+
+  </settore>
+</xml>

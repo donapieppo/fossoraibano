@@ -1,0 +1,48 @@
+<xml>
+  <settore nome="Il Tempio dell'Inutile">
+    <bg_color>#879d7e</bg_color>
+    <foto></foto>
+    <note>&Egrave; il settore piccolo di 4 vie che si vede a destra della capanna. Poco frequentato e di solito molto sporco. Possibilit&agrave; di calarsi dall'alto e pulire le vie prima</note>
+
+    <via num="1">
+      <nome>Una noventa</nome>
+      <grado>7a</grado>
+      <metri>14</metri>
+      <rinvii></rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>Vanzi</chiodatore>
+      <note>Via leggermente strapiombante, fisica su biditi. Continua... in crescendo!!</note>
+    </via>
+
+    <via num="2">
+      <nome>Par de bal</nome>
+      <grado>7b</grado>
+      <metri>18</metri>
+      <rinvii></rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>Benni</chiodatore>
+      <note>Bella via molto snobbata! Prima parte fessura d'incastro che si apre in diedro. Seconda parte caratterizzata da un lancio spettacolare!</note>
+    </via>
+
+    <via num="3">
+      <nome>Trema che te magno</nome>
+      <grado>7a+</grado>
+      <metri>12</metri>
+      <rinvii></rinvii>
+      <bellezza>***</bellezza>
+      <chiodatore>M. Ferioli</chiodatore>
+      <note>Allunghi su biditi e qualche tacca. Riscaldarsi... altrove!</note>
+    </via>
+
+    <via num="4">
+      <nome>Katerina bella</nome>
+      <grado>6c</grado>
+      <metri>16</metri>
+      <rinvii></rinvii>
+      <bellezza>**</bellezza>
+      <chiodatore>?</chiodatore>
+      <note>Passo singolo di braccia e uscita delicata</note>
+    </via>
+
+  </settore>
+</xml>
