@@ -10,47 +10,46 @@
   <link rel="shortcut icon" href="/fossoraibano/fosso.ico" type="text/css"/>
   <link rel="stylesheet"    href="/fossoraibano/bootstrap.min.css" type="text/css"/> 
   <link rel="stylesheet"    href="/fossoraibano/fosso.css" type="text/css"/> 
-
-  <script type="text/javascript">
-    window.onload = function() {
-  		document.getElementById("settori").onmouseover = function() { this.getElementsByTagName("ul").item(0).style.display = "block"; } 
-	    document.getElementById("settori").onmouseout  = function() { this.getElementsByTagName("ul").item(0).style.display = "none"; } 
-		  document.getElementById("storie").onmouseover  = function() { this.getElementsByTagName("ul").item(0).style.display = "block"; } 
-  		document.getElementById("storie").onmouseout   = function() { this.getElementsByTagName("ul").item(0).style.display = "none"; } 
-	  }
-  </script>
+  <script src="/fossoraibano/bootstrap.bundle.min.js"></script>
 </head>
 
 <body style="background: url(bg/jurassic.jpg) #b1a688 no-repeat top left; border: 20px; background-attachment: fixed;">
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container">
-    <ul class="navbar-nav mx-auto w-75">
-      <li class="nav-item">
-        <a class="nav-link" href="/fossoraibano/index.html">Home</a>
-      </li> 
-      <li class="nav-item dropdown" id="settori">
-        <a class="nav-link dropdown-toggle" href="#">Settori</a>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item " href="/fossoraibano/nolimits.html"> no limits</a></li><li><a class="dropdown-item " href="/fossoraibano/belvedere.html"> il belvedere</a></li><li><a class="dropdown-item bg-info-subtle" href="/fossoraibano/jurassic.html"> jurassic park</a></li><li><a class="dropdown-item " href="/fossoraibano/meraviglie.html"> placca delle meraviglie</a></li><li><a class="dropdown-item " href="/fossoraibano/inutile.html"> tempio dell'inutile</a></li><li><a class="dropdown-item " href="/fossoraibano/viandante.html"> sogno di un viandante</a></li><li><a class="dropdown-item " href="/fossoraibano/sblisgo.html"> placca dello sblisgo</a></li><li><a class="dropdown-item " href="/fossoraibano/pulpito.html"> il pulpito</a></li><li><a class="dropdown-item " href="/fossoraibano/canyon.html"> gran canyon</a></li><li><a class="dropdown-item " href="/fossoraibano/spaccato.html"> spaccato d'onda</a></li><li><a class="dropdown-item " href="/fossoraibano/baby.html"> baby school</a></li><li><a class="dropdown-item " href="/fossoraibano/george.html"> George's dream</a></li><li><a class="dropdown-item " href="/fossoraibano/nochances.html"> no chances</a></li><li><a class="dropdown-item " href="/fossoraibano/fosso.html"> fosso vecchio</a></li>
-        </ul>
-      </li>
-      <li class="nav-item dropdown" id="storie">
-        <a class="nav-link dropdown-toggle" href="#">Storie</a> 
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="/fossoraibano/storie/spiro.html">introduzione</a></li>
-          <li><a class="dropdown-item" href="/fossoraibano/storie/benni.html">l'eremita</a></li>
-          <li><a class="dropdown-item" href="/fossoraibano/storie/vanni.html">il premier</a></li>
-          <li><a class="dropdown-item" href="/fossoraibano/storie/genova.html">il certosino</a></li>
-          <li><a class="dropdown-item" href="#">l'alchimista</a></li>
-        </ul>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/fossoraibano/links.html">Links</a> 
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/fossoraibano/fosso.pdf">Pdf</a>
-      </li>
-    </ul>
+    <a class="navbar-brand" href="/fossoraibano/index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Settori
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item " href="/fossoraibano/nolimits.html"> no limits</a></li><li><a class="dropdown-item " href="/fossoraibano/belvedere.html"> il belvedere</a></li><li><a class="dropdown-item bg-info-subtle" href="/fossoraibano/jurassic.html"> jurassic park</a></li><li><a class="dropdown-item " href="/fossoraibano/meraviglie.html"> placca delle meraviglie</a></li><li><a class="dropdown-item " href="/fossoraibano/inutile.html"> tempio dell'inutile</a></li><li><a class="dropdown-item " href="/fossoraibano/viandante.html"> sogno di un viandante</a></li><li><a class="dropdown-item " href="/fossoraibano/sblisgo.html"> placca dello sblisgo</a></li><li><a class="dropdown-item " href="/fossoraibano/pulpito.html"> il pulpito</a></li><li><a class="dropdown-item " href="/fossoraibano/canyon.html"> gran canyon</a></li><li><a class="dropdown-item " href="/fossoraibano/spaccato.html"> spaccato d'onda</a></li><li><a class="dropdown-item " href="/fossoraibano/baby.html"> baby school</a></li><li><a class="dropdown-item " href="/fossoraibano/george.html"> George's dream</a></li><li><a class="dropdown-item " href="/fossoraibano/nochances.html"> no chances</a></li><li><a class="dropdown-item " href="/fossoraibano/fosso.html"> fosso vecchio</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Storie
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/fossoraibano/storie/spiro.html">introduzione</a></li>
+            <li><a class="dropdown-item" href="/fossoraibano/storie/benni.html">l'eremita</a></li>
+            <li><a class="dropdown-item" href="/fossoraibano/storie/vanni.html">il premier</a></li>
+            <li><a class="dropdown-item" href="/fossoraibano/storie/genova.html">il certosino</a></li>
+            <li><a class="dropdown-item" href="#">l'alchimista</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/fossoraibano/links.html">Links</a> 
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/fossoraibano/fosso.pdf">Pdf</a>
+        </li>
+      </ul>
+    </div>
   </div>
 </nav>
 <div class="container mb-4">
