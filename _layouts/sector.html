@@ -5,6 +5,9 @@ layout: default
 {% assign settore = site.data.settori[sector_slug] %}
 {% if settore %}
 <div class="container my-4">
+  <h1 class="my-4 text-center">
+   <small>Settore</small>: {{ page.title }}
+  </h1>
   {% if settore.note %}
   <div class="alert alert-light my-4 ms-4">
     {{ settore.note }}
