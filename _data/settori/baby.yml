@@ -1,0 +1,14 @@
+slug: "baby"
+name: "Baby School"
+background_color: "#aaa39b"
+note: "Settore sviluppato appositamente per i bimbi. Si tratta di una parete molto appoggiata e corta dove si ha la possibilit&#224; - con molta prudenza - di piazzare una corda dall'alto su une delle tante anelle del cavo d'acciaio che si trova in alto. C'&#232; anche una vecchia via-boulder con 3 chiodi (solo sul sassolino che si romper&#224;)"
+routes:
+  -
+    num: "1"
+    nome: "Solo sul sassolino che si rompera'"
+    grado: "?"
+    metri: ''
+    rinvii: ''
+    bellezza: ''
+    chiodatore: "Ferioli"
+    note: "il grado &#232; attorno al F6b (grado falesia) o F6a/+ (EXPO - boulder). La via &#232; stata attrezzata dall'instancabile Marcello Ferioli"

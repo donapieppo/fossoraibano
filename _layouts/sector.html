@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% assign sector_slug = page.sector | default: page.slug %}
+{% assign settore = site.data.settori[sector_slug] %}
+{% if settore %}
+<div class="container my-4">
+  {% if settore.note %}
+  <div class="alert alert-light my-4 ms-4">
+    {{ settore.note }}
+  </div>
+  {% endif %}
+  <ol>
+    {% for via in settore.routes %}
+    {% assign grado = via.grado | default: '?' %}
+    {% assign metri = via.metri | default: '?' %}
+    {% assign rinvii = via.rinvii | default: '?' %}
+    {% assign bellezza = via.bellezza | default: '' %}
+    <li value="{{ via.num }}">
+      <b>{{ via.nome }}</b>
+      {% if via.chiodatore %}
+      ({{ via.chiodatore }})
+      {% endif %}
+      - {{ grado }} / {{ metri }} m / {{ rinvii }} rinvii{% if bellezza != '' %} / {{ bellezza }}{% endif %}
+      <dl>
+        {% if via.note %}
+        <dd>{{ via.note }}</dd>
+        {% endif %}
+        {% if via.storia %}
+        <dd style="color: darkred;">{{ via.storia }}</dd>
+        {% endif %}
+      </dl>
+    </li>
+    {% endfor %}
+  </ol>
+</div>
+{% else %}
+<div class="container mb-4 alert alert-warning">
+  Non sono disponibili dati per il settore richiesto.
+</div>
+{% endif %}
+{{ content }}

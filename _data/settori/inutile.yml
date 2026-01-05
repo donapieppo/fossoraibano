@@ -1,0 +1,41 @@
+slug: "inutile"
+name: "Il Tempio dell'Inutile"
+background_color: "#879d7e"
+note: "&#200; il settore piccolo di 4 vie che si vede a destra della capanna. Poco frequentato e di solito molto sporco. Possibilit&#224; di calarsi dall'alto e pulire le vie prima"
+routes:
+  -
+    num: "1"
+    nome: "Una noventa"
+    grado: "7a"
+    metri: "14"
+    rinvii: ''
+    bellezza: "**"
+    chiodatore: "Vanzi"
+    note: "Via leggermente strapiombante, fisica su biditi. Continua... in crescendo!!"
+  -
+    num: "2"
+    nome: "Par de bal"
+    grado: "7b"
+    metri: "18"
+    rinvii: ''
+    bellezza: "***"
+    chiodatore: "Benni"
+    note: "Bella via molto snobbata! Prima parte fessura d'incastro che si apre in diedro. Seconda parte caratterizzata da un lancio spettacolare!"
+  -
+    num: "3"
+    nome: "Trema che te magno"
+    grado: "7a+"
+    metri: "12"
+    rinvii: ''
+    bellezza: "***"
+    chiodatore: "M. Ferioli"
+    note: "Allunghi su biditi e qualche tacca. Riscaldarsi... altrove!"
+  -
+    num: "4"
+    nome: "Katerina bella"
+    grado: "6c"
+    metri: "16"
+    rinvii: ''
+    bellezza: "**"
+    chiodatore: "?"
+    note: "Passo singolo di braccia e uscita delicata"

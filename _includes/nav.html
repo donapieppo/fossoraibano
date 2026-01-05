@@ -1,0 +1,37 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand h1" href="{{ '/index.html' | relative_url }}">Fosso Raibano</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Settori
+          </a>
+          <ul class="dropdown-menu">
+            {% for settore in site.data.navigation.settori %}
+            <li><a class="dropdown-item" href="{{ settore.url | relative_url }}">{{ settore.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Storie
+          </a>
+          <ul class="dropdown-menu">
+            {% for storia in site.data.navigation.storie %}
+            <li><a class="dropdown-item" href="{{ storia.url | relative_url }}">{{ storia.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% for link in site.data.navigation.utility %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>

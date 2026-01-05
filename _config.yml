@@ -1,0 +1,22 @@
+# Jekyll configuration for the Fosso Raibano site
+# Content is served from /fossoraibano so keep baseurl aligned with the directory name.
+destination: docs
+title: "Fosso Raibano"
+description: "Guida storica dell'arrampicata a Fosso Raibano"
+baseurl: "/fossoraibano"
+url: ""
+markdown: kramdown
+highlighter: rouge
+permalink: /:path/:basename:output_ext
+plugins: []
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .src

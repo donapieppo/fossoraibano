@@ -1,0 +1,45 @@
+settori:
+  - title: "no limits"
+    url: /nolimits.html
+  - title: "il belvedere"
+    url: /belvedere.html
+  - title: "jurassic park"
+    url: /jurassic.html
+  - title: "placca delle meraviglie"
+    url: /meraviglie.html
+  - title: "tempio dell'inutile"
+    url: /inutile.html
+  - title: "sogno di un viandante"
+    url: /viandante.html
+  - title: "placca dello sblisgo"
+    url: /sblisgo.html
+  - title: "il pulpito"
+    url: /pulpito.html
+  - title: "gran canyon"
+    url: /canyon.html
+  - title: "spaccato d'onda"
+    url: /spaccato.html
+  - title: "baby school"
+    url: /baby.html
+  - title: "George's dream"
+    url: /george.html
+  - title: "no chances"
+    url: /nochances.html
+  - title: "fosso vecchio"
+    url: /fosso.html
+storie:
+  - title: "introduzione"
+    url: /storie/spiro.html
+  - title: "l'eremita"
+    url: /storie/benni.html
+  - title: "il premier"
+    url: /storie/vanni.html
+  - title: "il certosino"
+    url: /storie/genova.html
+  - title: "l'alchimista"
+    url: /storie/pietro.html
+utility:
+  - title: "Links"
+    url: /links.html
+  - title: "Pdf"
+    url: /fosso.pdf
