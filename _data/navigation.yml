@@ -1,32 +1,32 @@
 settori:
   - title: "no limits"
-    url: /nolimits.html
+    url: /sectors/nolimits.html
   - title: "il belvedere"
-    url: /belvedere.html
+    url: /sectors/belvedere.html
   - title: "jurassic park"
-    url: /jurassic.html
+    url: /sectors/jurassic.html
   - title: "placca delle meraviglie"
-    url: /meraviglie.html
+    url: /sectors/meraviglie.html
   - title: "tempio dell'inutile"
-    url: /inutile.html
+    url: /sectors/inutile.html
   - title: "sogno di un viandante"
-    url: /viandante.html
+    url: /sectors/viandante.html
   - title: "placca dello sblisgo"
-    url: /sblisgo.html
+    url: /sectors/sblisgo.html
   - title: "il pulpito"
-    url: /pulpito.html
+    url: /sectors/pulpito.html
   - title: "gran canyon"
-    url: /canyon.html
+    url: /sectors/canyon.html
   - title: "spaccato d'onda"
-    url: /spaccato.html
+    url: /sectors/spaccato.html
   - title: "baby school"
-    url: /baby.html
+    url: /sectors/baby.html
   - title: "George's dream"
-    url: /george.html
+    url: /sectors/george.html
   - title: "no chances"
-    url: /nochances.html
+    url: /sectors/nochances.html
   - title: "fosso vecchio"
-    url: /fosso.html
+    url: /sectors/fosso.html
 storie:
   - title: "introduzione"
     url: /storie/spiro.html
